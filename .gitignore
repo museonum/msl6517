@@ -1,0 +1,7 @@
+build/
+build/*
+pdf/
+pdf/*
+travaux/
+travaux/*
+sqlite/*
