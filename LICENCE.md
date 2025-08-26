@@ -2,6 +2,8 @@
 
   **CC BY-NC-ND 4.0**
 
+ https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 ## You are free to:
 
 1. **Share** — copy and redistribute the material in any medium or format
